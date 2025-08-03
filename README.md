@@ -1,12 +1,17 @@
-# React + Vite
+ShoppyGlobe is a beginner-friendly e-commerce application built using React, Redux Toolkit, and Vite. It showcases modern frontend practices like routing, dynamic state management, theme toggling, and more.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Features
+ Add to Cart with quantity tracking
 
-Currently, two official plugins are available:
+ Dark/Light Theme toggle with persistence
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Product detail page via dynamic routing
 
-## Expanding the ESLint configuration
+ Total cart price in the header
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ Cart persisted across page refresh using localStorage
+
+ Fast build and reload using Vite
+
+
+ 
