@@ -13,5 +13,7 @@ ShoppyGlobe is a beginner-friendly e-commerce application built using React, Red
 
  Fast build and reload using Vite
 
+ https://github.com/nits1617/shoppyglobe
+
 
  
